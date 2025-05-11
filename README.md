@@ -12,3 +12,7 @@ YouTube Tweaker - это мощный пользовательский скри�
 ✅ Удаление раздела "Подвал"
 
 ✅ <a href="https://www.youtube.com/account_playback" rel="nofollow">Настройки YouTube Tweaker</a>
+
+Установка 
+
+<a href="https://github.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/blob/main/YouTube%20Tweaker.js" rel="nofollow">YouTube Tweaker</a>
