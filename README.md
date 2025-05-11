@@ -15,4 +15,4 @@ YouTube Tweaker - это мощный пользовательский скри�
 
 Установка 
 
-<a href="https://github.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/blob/main/YouTube%20Tweaker.js" rel="nofollow">YouTube Tweaker</a>
+<a href="[https://github.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/blob/main/YouTube%20Tweaker.js](https://raw.githubusercontent.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/refs/heads/main/YouTube%20Tweaker.js)" rel="nofollow">YouTube Tweaker</a>
