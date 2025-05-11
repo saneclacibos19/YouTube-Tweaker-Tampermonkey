@@ -13,6 +13,6 @@ YouTube Tweaker - это мощный пользовательский скри�
 
 ✅ <a href="https://www.youtube.com/account_playback" rel="nofollow">Настройки YouTube Tweaker</a>
 
-Установка 
+# Установка 
+<a href="https://www.tampermonkey.net/script_installation.php#url=https://github.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/raw/refs/heads/main/YouTube%20Tweaker-2.1.user.js" rel="nofollow">YouTube Tweaker</a>
 
-https://www.tampermonkey.net/script_installation.php#url=https://github.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/raw/refs/heads/main/YouTube%20Tweaker-2.1.user.js
