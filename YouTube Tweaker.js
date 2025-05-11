@@ -6,6 +6,8 @@
 // @icon         https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0f/8e/250f8eab-3a6a-ea84-d8ce-a531a9a1165c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/230x0w.webp
 // @author       Astra
 // @match        *://*.youtube.com/*
+// @downloadURL  https://github.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/blob/main/YouTube%20Tweaker.js
+// @updateURL    https://github.com/saneclacibos19/YouTube-Tweaker-Tampermonkey/blob/main/YouTube%20Tweaker.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-start
